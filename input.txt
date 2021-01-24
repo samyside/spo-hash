@@ -1,1 +1,1 @@
-hello 5
+vlad;katya;vasya;karina;roma;artem;steve;roza;kuriluk
